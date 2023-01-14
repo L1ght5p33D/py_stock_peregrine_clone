@@ -1,0 +1,690 @@
+
+
+
+
+Running Bellman for exchange ::: bitfinex
+Path :::['ETH', 'USD', 'XCHF', 'ETH']
+Starting with 10 in ETH
+ETH to USD at 267.72200999999995 = 2677.2200999999995
+USD to XCHF at 0.9944256420465858 = 2662.296316842524
+XCHF to ETH at 0.003761634600000001 = 10.014585940887404
+
+
+Running Bellman for exchange ::: bitfinex2
+Path :::['ETH', 'USD', 'XCHF', 'ETH']
+Starting with 10 in ETH
+ETH to USD at 268.25147999999996 = 2682.5147999999995
+USD to XCHF at 0.9944256420465858 = 2667.561502289468
+XCHF to ETH at 0.003761534699999999 = 10.034125155245961
+
+Running Bellman for exchange ::: bitkk
+Path :::['BTC', 'SNT', 'QC', 'EPC', 'BTC']
+Starting with 10 in BTC
+BTC to SNT at 324268.1222991193 = 3242681.222991193
+SNT to QC at 0.1974044 = 640119.5412158427
+QC to EPC at 26.71377713536229 = 17100010.76403038
+EPC to BTC at 6.002969999999998e-07 = 10.26508516161514
+
+
+Running Bellman for exchange ::: bitz
+Path :::['BTC', 'USDT', 'PNT', 'BTC']
+Starting with 10 in BTC
+BTC to USDT at 9161.139690000005 = 91611.39690000005
+USDT to PNT at 4343.478260869565 = 397912110.8830437
+PNT to BTC at 2.547450000000002e-08 = 10.136612068690106
+
+
+Running Bellman for exchange ::: bleutrade
+Path :::['BTC', 'DOGE', 'UNO', 'BTC']
+Starting with 10 in BTC
+BTC to DOGE at 2992499.0024999813 = 29924990.024999812
+DOGE to UNO at 2.319767441860464e-05 = 694.1901755799372
+UNO to BTC at 0.014463750000000006 = 10.040593152044321
+
+
+
+Running Bellman for exchange ::: coinexchange
+coinex requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add exchange.close() to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x10a5cdcc0>
+Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x10a4b73a8>, 71.895904785)]', '[(<aiohttp.client_proto.ResponseHandler object at 0x10b26b168>, 72.21882035)]']
+connector: <aiohttp.connector.TCPConnector object at 0x10a441f60>
+
+Path :::['BTC', 'ONION', 'ETH', 'DEM', 'BTC']
+Starting with 10 in BTC
+BTC to ONION at 39940.000000000015 = 399400.0000000001
+ONION to ETH at 0.0009485849850000003 = 378.86484300900025
+ETH to DEM at 248383.08457711467 = 94103618.34439978
+DEM to BTC at 2.496249999999999e-07 = 23.490615729220785
+
+Path :::['LTC', 'PAC', 'LTC']
+Starting with 10 in LTC
+LTC to PAC at 344310.34482758597 = 3443103.4482758595
+PAC to LTC at 2.8856649999999986e-06 = 9.935643112068954
+
+
+
+Running Bellman for exchange ::: crex24
+cointiger requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add exchange.close() to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x10b251630>
+coolcoin requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add exchange.close() to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x10a1fb768>, 82.016121634)]']
+connector: <aiohttp.connector.TCPConnector object at 0x10b251278>
+coss requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add exchange.close() to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x10a4b7048>, 82.269360615)]']
+connector: <aiohttp.connector.TCPConnector object at 0x115b0b4e0>
+Path :::['USD', 'TUSD', 'USD']
+Starting with 10 in USD
+USD to TUSD at 1.0160965794768613 = 10.160965794768613
+TUSD to USD at 1.00091 = 10.170212273641852
+
+
+
+Running Bellman for exchange ::: ethfinex
+Path :::['USD', 'XCHF', 'ETH', 'USD']
+Starting with 10 in USD
+USD to XCHF at 0.9944256420465858 = 9.944256420465859
+XCHF to ETH at 0.003761534699999999 = 0.037405665591280106
+ETH to USD at 268.25147999999996 = 10.034125155245961
+
+
+Running Bellman for exchange ::: exmo
+Path :::['BCH', 'USD', 'STQ', 'EUR', 'BCH']
+Starting with 10 in BCH
+BCH to USD at 410.178 = 4101.78
+USD to STQ at 7422.281719470471 = 30444566.71128959
+STQ to EUR at 0.0001264965 = 3851.131132994644
+EUR to BCH at 0.002617024972592004 = 10.078506347773521
+
+
+Running Bellman for exchange ::: exx
+Path :::['USDT', 'XUC', 'BTC', 'USDT']
+Starting with 10 in USDT
+USDT to XUC at 0.4044534412955465 = 4.044534412955465
+XUC to BTC at 0.00028771199999999986 = 0.0011636610850202422
+BTC to USDT at 9127.503359999999 = 10.621320463423505
+
+Running Bellman for exchange ::: gateio
+Path :::['USDT', 'MED', 'QTUM', 'USDT']
+Starting with 10 in USDT
+USDT to MED at 344.7322970639034 = 3447.322970639034
+MED to QTUM at 0.0007953161799999999 = 2.741711736234888
+QTUM to USDT at 3.663658 = 10.044694136150838
+
+
+
+Running Bellman for exchange ::: kucoin
+Path :::['BTC', 'GAS', 'NEO', 'BTC']
+Starting with 10 in BTC
+BTC to GAS at 2829.948160108778 = 28299.481601087784
+GAS to NEO at 0.234573192 = 6638.299731112433
+NEO to BTC at 0.0015111872999999997 = 10.031714247250521
+
+Running Bellman for exchange ::: kucoin2
+Path :::['ETH', 'APH', 'BTC', 'SNX', 'ETH']
+Starting with 10 in ETH
+ETH to APH at 71357.14285714291 = 713571.4285714291
+APH to BTC at 4.095900000000003e-07 = 0.2922717214285719
+BTC to SNX at 38616.15771163511 = 11286.410889336816
+SNX to ETH at 0.0008906084999999998 = 10.051773472535926
+Path :::['NEO', 'GAS', 'NEO']
+Starting with 10 in NEO
+NEO to GAS at 4.1981845688350985 = 41.98184568835099
+GAS to NEO at 0.234573192 = 9.84781554916793
+
+
+
+Running Bellman for exchange ::: liquid
+liqui requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add exchange.close() to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x10a9c1160>
+lbank requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add exchange.close() to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x10a9c1278>
+Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x10b26b8e8>, 139.507883507)]']
+connector: <aiohttp.connector.TCPConnector object at 0x10a9c14e0>
+/Users/drix/projects/djangoServers/hft/peregrinePy/pEnv/lib/python3.7/site-packages/peregrinearb/utils/single_exchange.py:47: UserWarning: The fees for Liquid have not yet been implemented into the library. Values will be calculated using a 0.2% maker fee.
+  "Values will be calculated using a 0.2% maker fee.".format(exchange))
+Path :::['BTC', 'QTUM', 'ETH', 'HOT Token', 'USD', 'QASH', 'ECH', 'BTC']
+Starting with 10 in BTC
+BTC to QTUM at 2488.281639573152 = 24882.81639573152
+QTUM to ETH at 0.014871716959999996 = 370.0502026049664
+ETH to HOT Token at 31874.800383264108 = 11795276.339819744
+HOT Token to USD at 0.019960000000000002 = 235433.71574280213
+USD to QASH at 6.836084663333105 = 1609444.8134208955
+QASH to ECH at 384.14164742109307 = 618254782.0608366
+ECH to BTC at 5.0898e-07 = 314.6793189733246
+Path :::['XRP', 'JPY', 'XRP']
+Starting with 10 in XRP
+XRP to JPY at 46.578656 = 465.78656
+JPY to XRP at 0.02135718718568769 = 9.947890750497551
+
+
+
+Running Bellman for exchange ::: oceanex
+Path :::['BTC', 'VET', 'IOST', 'BTC']
+Starting with 10 in BTC
+BTC to VET at 1237918.2156133836 = 12379182.156133836
+VET to IOST at 0.6227403066949257 = 7709015.692543137
+IOST to BTC at 1.3086899999999992e-06 = 10.08871174667427
+
+Running Bellman for exchange ::: okcoinusd
+okcoincny requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add exchange.close() to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x10b26ba08>, 162.752747195)]']
+connector: <aiohttp.connector.TCPConnector object at 0x10ada77f0>
+Path :::['ETH', 'ADA', 'ETH']
+Starting with 10 in ETH
+ETH to ADA at 3331.6666666666647 = 33316.66666666665
+ADA to ETH at 0.0003998 = 13.320003333333327
+Path :::['BCH', 'EUR', 'BCH']
+Starting with 10 in BCH
+BCH to EUR at 368.0159 = 3680.1589999999997
+EUR to BCH at 0.002680343255564495 = 9.864089355054976
+
+Running Bellman for exchange ::: okex
+Path :::['BTC', 'LKY', 'BTC']
+Starting with 10 in BTC
+BTC to LKY at 30569.15544675643 = 305691.55446756433
+LKY to BTC at 99899999.99999997 = 30538586291309.668
+Path :::['KRW', 'AUTO', 'KRW']
+Starting with 10 in KRW
+KRW to AUTO at 0.4479820627802691 = 4.479820627802691
+AUTO to KRW at 2.2177800000000003 = 9.935256591928253
+
+Running Bellman for exchange ::: okex3
+Path :::['BTC', 'WTC', 'USDT', 'INSUR', 'BTC']
+Starting with 10 in BTC
+BTC to WTC at 4779.904306220093 = 47799.04306220093
+WTC to USDT at 1.919079 = 91730.1397607655
+USDT to INSUR at 4603.6866359447 = 422296818.5299757
+INSUR to BTC at 2.3876099999999994e-08 = 10.082801068903551
+Path :::['USDK', 'EOS', 'USDK']
+Starting with 10 in USDK
+USDK to EOS at 0.14611671785870997 = 1.4611671785870997
+EOS to USDK at 6.82317 = 9.969792057920142
+
+Running Bellman for exchange ::: poloniex
+Path :::['BTC', 'ZRX', 'ETH', 'BTC']
+Starting with 10 in BTC
+BTC to ZRX at 26999.999999999996 = 269999.99999999994
+ZRX to ETH at 0.00126941931 = 342.7432136999999
+ETH to BTC at 0.029213756999999996 = 10.012816958430866
+
+Running Bellman for exchange ::: rightbtc
+Path :::['USD', 'VET', 'ETH', 'USD']
+Starting with 10 in USD
+USD to VET at 134.91956198458828 = 1349.195619845883
+VET to ETH at 2.8053780000000018e-05 = 0.03785003709612006
+ETH to USD at 267.5737800000001 = 10.127677498949073
+
+Running Bellman for exchange ::: southxchange
+Path :::['LTC', 'USDC', 'DASH', 'ZEIT', 'LTC']
+Starting with 10 in LTC
+LTC to USDC at 133.05001769799998 = 1330.5001769799997
+USDC to DASH at 0.006151422377740479 = 8.184468562262436
+DASH to ZEIT at 33266666.666666612 = 272269987.5045966
+ZEIT to LTC at 3.991999999999999e-08 = 10.869017901183494
+
+
+Running Bellman for exchange ::: zb
+yobit requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add exchange.close() to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x11ca187b8>
+Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x116451d08>, 199.819059198)]']
+connector: <aiohttp.connector.TCPConnector object at 0x11ca18d68>
+Path :::['BTC', 'SNT', 'QC', 'EPC', 'BTC']
+Starting with 10 in BTC
+BTC to SNT at 324268.1222991193 = 3242681.222991193
+SNT to QC at 0.196606 = 637530.5845274065
+QC to EPC at 26.7194988085995 = 17034497.69372578
+EPC to BTC at 6.002969999999998e-07 = 10.225757862050502
+
+
+
+
+
+###########################################################################
+
+exchange is profitablebitkkis profitable
+ with calculated fees ::: 0.002
+
+exchange is profitablebitzis profitable
+ with calculated fees ::: 0.001
+
+exchange is profitablebleutradeis profitable
+ with calculated fees ::: 0.0025
+
+exchange is profitablecoinexchangeis profitable
+ with calculated fees ::: 0.0015
+
+exchange is profitablecossis profitable
+ with calculated fees ::: 0.002
+
+exchange is profitableexxis profitable
+ with calculated fees ::: 0.001
+
+exchange is profitablehitbtcis profitable
+ with calculated fees ::: 0.001
+
+exchange is profitablekkexis profitable
+ with calculated fees ::: 0.002
+
+exchange is profitablekrakenis profitable
+ with calculated fees ::: 0.0026
+
+exchange is profitablekucoinis profitable
+ with calculated fees ::: 0.001
+
+exchange is profitablekucoin2is profitable
+ with calculated fees ::: 0.001
+
+ ##############################################################################
+
+ exchange ::: coss
+
+Path :::['BTC', 'CFT', 'ETH', 'UBC', 'BTC']
+Starting with 10 in BTC
+BTC to CFT at 344344.82758620696 = 3443448.27586207
+CFT to ETH at 0.00010784880000000007 = 371.3717644137934
+ETH to UBC at 285314.28571428556 = 105957669.6981754
+UBC to BTC at 5.392440000000001e-07 = 57.13703763872291
+
+Running Bellman for exchange ::: crex24
+Path :::['ETH', 'LTC', 'ETH']
+Starting with 10 in ETH
+ETH to LTC at 1.9788401253918497 = 19.788401253918497
+LTC to ETH at 0.5136860000000001 = 10.165024686520379
+
+Running Bellman for exchange ::: liquid
+Path :::['USD', 'QASH', 'ECH', 'BTC', 'HOT Token', 'USD']
+Starting with 10 in USD
+USD to QASH at 6.756482296391577 = 67.56482296391577
+QASH to ECH at 384.14164742109307 = 25954.462401073106
+ECH to BTC at 5.0898e-07 = 0.013210302272898189
+BTC to HOT Token at 1134090.909090908 = 14981.683714036795
+HOT Token to USD at 0.019960000000000002 = 299.0344069321745
+
+ ##############################################################################
+
+ Running Bellman for exchange ::: bitlish
+Path :::['BTC', 'EUR', 'USDT', 'RUB', 'BTC']
+Starting with 10 in BTC
+BTC to EUR at 8610.290000000005 = 86102.90000000005
+EUR to USDT at 1.1198208286674132 = 96419.82082866746
+USDT to RUB at 62.99999999999999 = 6074448.71220605
+RUB to BTC at 1.666666666666667e-06 = 10.124081187010086
+
+Running Bellman for exchange ::: bitfinex2
+Path :::['USD', 'BTC', 'DATA', 'USD']
+Starting with 10 in USD
+USD to BTC at 0.00010250990210766104 = 0.0010250990210766103
+BTC to DATA at 419747.899159664 = 430.2831605275353
+DATA to USD at 0.023276700000000004 = 10.015572042651282
+
+##################################################
+
+
+
+
+
+Profit opportunity for exchange ::: bitfinex
+USD to YOYOW at 27.75 = 277.5reversed rate :: correct pair order price ::: 0.036036036036036036 market list price ::: 27.75
+YOYOW to BTC at 3.716280000000001e-06 = 0.0010312677000000002
+BTC to LTC at 70.98195253659229 = 0.07320139493392071reversed rate :: correct pair order price ::: 0.01408808808808809 market list price ::: 70.98195253659229
+LTC to USD at 136.863 = 10.01856251484119
+
+
+
+Profit opportunity for exchange ::: bitfinex2
+USD to YOYOW at 27.75 = 277.5reversed rate :: correct pair order price ::: 0.036036036036036036 market list price ::: 27.75
+YOYOW to BTC at 3.716280000000001e-06 = 0.0010312677000000002
+BTC to USDT at 9684.705599999992 = 9.987524069289114
+USDT to ZBT at 2.9967602591792653 = 29.930215218441994reversed rate :: correct pair order price ::: 0.3336936936936937 market list price ::: 2.9967602591792653
+ZBT to USD at 0.3350646 = 10.02855559008118
+
+
+Profit opportunity for exchange ::: bitlish
+EUR to USDT at 1.1198208286674132 = 11.19820828667413reversed rate :: correct pair order price ::: 0.893 market list price ::: 1.1198208286674132
+USDT to ETH at 0.003560112499554987 = 0.03986688129400881reversed rate :: correct pair order price ::: 280.88999999999993 market list price ::: 0.003560112499554987
+ETH to EUR at 251.5 = 10.026520645443215
+
+
+Profit opportunity for exchange ::: coss
+COSS to GUSD at 0.09832901720216236 = 0.9832901720216236
+GUSD to XRP at 2.2695454545454545 = 2.231621740410894reversed rate :: correct pair order price ::: 0.44061686360905267 market list price ::: 2.2695454545454545
+XRP to USDT at 0.417534632 = 0.9317793621456621
+USDT to EUR at 0.9986 = 0.9304748710386582
+EUR to COSS at 31.099345998131422 = 28.93715995699795reversed rate :: correct pair order price ::: 0.03215501702383337 market list price ::: 31.099345998131422
+
+
+
+Profit opportunity for exchange ::: ethfinex
+USD to YOYOW at 27.75 = 277.5reversed rate :: correct pair order price ::: 0.036036036036036036 market list price ::: 27.75
+YOYOW to ETH at 0.00012663323999999995 = 0.035140724099999986
+ETH to USD at 285.4442700000001 = 10.030718337995905
+
+
+
+Profit opportunity for exchange ::: exmo
+USD to LSK at 0.4891412648697106 = 4.891412648697106reversed rate :: correct pair order price ::: 2.0443991783567137 market list price ::: 0.4891412648697106
+LSK to BTC at 0.00021292329999999987 = 0.0010414957228223277
+BTC to DXT at 2376190.4761904757 = 2474.792217563531reversed rate :: correct pair order price ::: 4.208416833667335e-07 market list price ::: 2376190.4761904757
+DXT to USD at 0.004047388999999999 = 10.01644679865224
+Min buy ::: LSK/USD ::: 0.1 USD
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.016446798652249
+
+
+
+Profit opportunity for exchange ::: liquid
+BTC to QASH at 66577.71847898602 = 665777.1847898602reversed rate :: correct pair order price ::: 1.5020040080160314e-05 market list price ::: 66577.71847898602
+QASH to NPLC at 188.3018867924528 = 125367100.07929817reversed rate :: correct pair order price ::: 0.005310621242484971 market list price ::: 188.3018867924528
+NPLC to BTC at 1.3971999999999998e-07 = 17.516291223079538
+
+
+
+
+
+
+Profit opportunity for exchange ::: rightbtc
+TRX to ETH at 0.00011622707999999998 = 0.0011622707999999998
+
+ETH to BTC at 0.029491897999999996 = 3.427757188197839e-05
+
+BTC to XEM at 111883.4080717488 = 3.8350915625800903reversed rate :: correct pair order price ::: 8.937875751503012e-06 market list price ::: 111883.4080717488
+
+XEM to ETP at 0.04251759440000001 = 0.16305886754464255
+
+ETP to TRX at 61.68985702541151 = 10.059078225554513reversed rate :: correct pair order price ::: 0.016210120240480963 market list price ::: 61.68985702541151
+
+Min buy ::: TRX/ETH ::: 1e-08 ETH
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.059078225554526
+
+Profit opportunity for exchange ::: rightbtc
+BTC to PLA at 49900000.00000006 = 499000000.0000006reversed rate :: correct pair order price ::: 2.0040080160320618e-08 market list price ::: 49900000.00000006
+
+PLA to USD at 0.013972 = 6972028.000000008
+
+USD to BTC at 0.00010247711207587012 = 714.4732947521055reversed rate :: correct pair order price ::: 9758.276553106203 market list price ::: 0.00010247711207587012
+
+Min buy ::: PLA/BTC ::: 1e-08 BTC
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 714.4732947521039
+
+Profit opportunity for exchange ::: rightbtc
+ETH to BTC at 0.029247387999999996 = 0.29247387999999996
+
+BTC to USD at 9769.501839999995 = 2857.3241088119375
+
+USD to XRP at 2.275421796625627 = 6501.617557214578reversed rate :: correct pair order price ::: 0.4394789579158317 market list price ::: 2.275421796625627
+
+XRP to ETH at 0.0015382174000000003 = 10.00090125465296
+
+Min buy ::: ETH/BTC ::: 1e-08 BTC
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.001593658258392
+
+Profit opportunity for exchange ::: rightbtc
+BTC to USD at 9763.493880000005 = 97634.93880000006
+
+USD to PLA at 34413.79310344828 = 3359988583.5310373reversed rate :: correct pair order price ::: 2.9058116232464925e-05 market list price ::: 34413.79310344828
+
+PLA to BTC at 9.979999999999996e-09 = 33.53268606363974
+
+Min buy ::: BTC/USD ::: 1e-08 USD
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 33.53381718073407
+
+Profit opportunity for exchange ::: rightbtc
+ETH to BTC at 0.029577726 = 0.29577726
+
+BTC to EOS at 1409.6642513100833 = 416.9466297724478reversed rate :: correct pair order price ::: 0.0007093887775551105 market list price ::: 1409.6642513100833
+
+EOS to ETH at 0.024103696000000004 = 10.049954812259633
+
+Min buy ::: ETH/BTC ::: 1e-08 BTC
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.049954812259635
+
+Profit opportunity for exchange ::: rightbtc
+USD to BCH at 0.0022297689798471782 = 0.022297689798471784reversed rate :: correct pair order price ::: 448.47695390781564 market list price ::: 0.0022297689798471782
+
+BCH to BTC at 0.043910003999999996 = 0.000979091648241655
+
+BTC to USD at 10379.619160000004 = 10.162598431485067
+
+Min buy ::: BCH/USD ::: 1e-08 USD
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.162598431485065
+
+Profit opportunity for exchange ::: bitfinex
+USD to EUS at 0.875624506968183 = 8.75624506968183reversed rate :: correct pair order price ::: 1.142042042042042 market list price ::: 0.875624506968183
+
+EUS to ETH at 0.003748148099999998 = 0.0328197033210623
+
+ETH to GNT at 3224.452908140211 = 105.82558781789828reversed rate :: correct pair order price ::: 0.0003101301301301301 market list price ::: 3224.452908140211
+
+GNT to BTC at 9.010979999999994e-06 = 0.0009535922553153244
+
+BTC to EOS at 1451.760568497231 = 1.384387634691132reversed rate :: correct pair order price ::: 0.0006888188188188192 market list price ::: 1451.760568497231
+
+EOS to USD at 7.2364562999999995 = 10.01806062070274
+
+Profit opportunity for exchange ::: exmo
+BTC to ETH at 34.29401239601407 = 342.9401239601407reversed rate :: correct pair order price ::: 0.029159609218436865 market list price ::: 34.29401239601407
+
+ETH to MNX at 3807.706982067913 = 1305815.5044342633reversed rate :: correct pair order price ::: 0.000262625250501002 market list price ::: 3807.706982067913
+
+MNX to BTC at 7.804360000000005e-06 = 10.191054290186594
+
+Min buy ::: ETH/BTC ::: 1e-08 BTC
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.191054290186587
+
+Profit opportunity for exchange ::: exmo
+BTC to ETH at 34.2971591092636 = 342.971591092636reversed rate :: correct pair order price ::: 0.02915693386773547 market list price ::: 34.2971591092636
+
+ETH to MNX at 3807.706982067913 = 1305935.3220543715reversed rate :: correct pair order price ::: 0.000262625250501002 market list price ::: 3807.706982067913
+
+MNX to BTC at 7.804360000000005e-06 = 10.191989390028262
+
+Min buy ::: ETH/BTC ::: 1e-08 BTC
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.191989390028255
+
+Profit opportunity for exchange ::: exmo
+USD to DAI at 0.9980000099800002 = 9.980000099800002reversed pair order rate ::: 1.0020039979959918 market list price ::: 0.9980000099800002
+
+DAI to ETH at 0.0034158745600000014 = 0.0340904284497043
+
+ETH to MNX at 3853.430634387429 = 131.3651013274833reversed pair order rate ::: 0.0002595090180360721 market list price ::: 3853.430634387429
+
+MNX to USD at 0.0772056792 = 10.14213187116517
+
+Min buy ::: DAI/USD ::: 0.001 USD
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.142131871165162
+
+Profit opportunity for exchange ::: exmo
+BTC to INK at 1008080.8080808086 = 10080808.080808086reversed pair order rate ::: 9.919839679358712e-07 market list price ::: 1008080.8080808086
+
+INK to ETH at 3.502980000000001e-05 = 353.1286909090912
+
+ETH to USD at 295.04856039983986 = 104190.11188860737
+
+USD to ADA at 10.87866592238279 = 1133449.419651843reversed pair order rate ::: 0.09192303607214428 market list price ::: 10.87866592238279
+
+ADA to BTC at 8.892179999999993e-06 = 10.078836260439717
+
+Min buy ::: INK/BTC ::: 1e-08 BTC
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.078836260439719
+
+Profit opportunity for exchange ::: rightbtc
+BTC to ETH at 34.646762714806464 = 346.46762714806465reversed pair order rate ::: 0.028862725450901797 market list price ::: 34.646762714806464
+
+ETH to XRP at 671.4660566507434 = 232641.25135825103reversed pair order rate ::: 0.0014892785571142286 market list price ::: 671.4660566507434
+
+XRP to BTC at 4.4650520000000004e-05 = 10.387552846596616
+
+Min buy ::: ETH/BTC ::: 1e-08 BTC
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.387552846596611
+
+Profit opportunity for exchange ::: rightbtc
+BTC to ETH at 34.61912029970862 = 346.1912029970862reversed pair order rate ::: 0.02888577154308617 market list price ::: 34.61912029970862
+
+ETH to XRP at 671.4660566507434 = 232455.6419236305reversed pair order rate ::: 0.0014892785571142286 market list price ::: 671.4660566507434
+
+XRP to BTC at 4.470041999999999e-05 = 10.390864825355889
+
+Min buy ::: ETH/BTC ::: 1e-08 BTC
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.39086482535589
+
+Profit opportunity for exchange ::: okcoinusd
+USD to BAT at 3.0033052884615388 = 30.033052884615387reversed pair order rate ::: 0.33296648324162076 market list price ::: 3.0033052884615388
+
+BAT to ETH at 0.0016991499999999997 = 0.05103066180889423 reversed rate :: non confirmed pair:: order price ::: 588.5295588970957 market list price ::: 0.0016991499999999997
+
+ETH to ZEC at 3.0150829562594263 = 0.1538616786666358 reversed rate :: non confirmed pair:: order price ::: 0.3316658329164583 market list price ::: 3.0150829562594263
+
+ZEC to USD at 112.90351999999996 = 17.371525114572083
+
+Min buy ::: BAT/USD ::: 0.0001 USD
+OKCoin USD is profitable
+  with calculated fees ::: 0.001
+ starting value::: 10 ending value ::: 3386.4281453890057
+
+Profit opportunity for exchange ::: exmo
+ETZ to USDT at 0.25005389 = 2.5005389
+
+USDT to BCH at 0.002093918171824342 = 0.0052359238420636505reversed pair order rate ::: 477.57358117234475 market list price ::: 0.002093918171824342
+
+BCH to BTC at 0.04460178766000001 = 0.00023353156340765436
+
+BTC to ETZ at 44355.555555555526 = 10.358422234703951reversed pair order rate ::: 2.2545090180360736e-05 market list price ::: 44355.555555555526
+
+Min buy ::: ETZ/USDT ::: 1e-06 USDT
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.358422234703959
+
+Profit opportunity for exchange ::: exmo
+ETH to BTC at 0.02861416698 = 0.2861416698
+
+BTC to INK at 1008080.8080808086 = 288453.9257175759reversed pair order rate ::: 9.919839679358712e-07 market list price ::: 1008080.8080808086
+
+INK to ETH at 3.5019820000000015e-05 = 10.101604556922883
+
+Min buy ::: ETH/BTC ::: 1e-08 BTC
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.101622173024287
+
+Profit opportunity for exchange ::: exmo
+INK to ETH at 3.5019820000000015e-05 = 0.00035019820000000015
+
+ETH to BTC at 0.0286677995 = 1.0039411782860904e-05
+
+BTC to INK at 1008080.8080808086 = 10.120538342722412reversed pair order rate ::: 9.919839679358712e-07 market list price ::: 1008080.8080808086
+
+Profit opportunity for exchange ::: exmo
+INK to ETH at 3.5019820000000015e-05 = 0.00035019820000000015
+
+ETH to BTC at 0.02866377756 = 1.0038003306712396e-05
+
+BTC to INK at 1008080.8080808086 = 10.119118484948462reversed pair order rate ::: 9.919839679358712e-07 market list price ::: 1008080.8080808086
+
+Min buy ::: INK/ETH ::: 1e-08 ETH
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.11911848494845
+
+Profit opportunity for exchange ::: rightbtc
+BTC to ETH at 34.84150258343807 = 348.4150258343807reversed pair order rate ::: 0.028701402805611217 market list price ::: 34.84150258343807
+
+ETH to XRP at 671.4660566507434 = 233948.8634748785reversed pair order rate ::: 0.0014892785571142286 market list price ::: 671.4660566507434
+
+XRP to BTC at 4.436110000000003e-05 = 10.37822892749544
+
+Min buy ::: ETH/BTC ::: 1e-08 BTC
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.378228927495432
+
+Profit opportunity for exchange ::: rightbtc
+BTC to ETH at 34.885346756152124 = 348.85346756152126reversed pair order rate ::: 0.028665330661322645 market list price ::: 34.885346756152124
+
+ETH to XRP at 671.4660566507434 = 234243.26221247273reversed pair order rate ::: 0.0014892785571142286 market list price ::: 671.4660566507434
+
+XRP to BTC at 4.434113999999997e-05 = 10.386613283819957
+
+Min buy ::: ETH/BTC ::: 1e-08 BTC
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.386613283819964
+
+Profit opportunity for exchange ::: rightbtc
+XRP to BTC at 4.292398000000003e-05 = 0.0004292398000000003
+
+BTC to ETH at 35.17304574610559 = 0.015097671121449227reversed pair order rate ::: 0.02843086172344689 market list price ::: 35.17304574610559
+
+ETH to XRP at 671.4660566507434 = 10.13757369252932reversed pair order rate ::: 0.0014892785571142286 market list price ::: 671.4660566507434
+
+Min buy ::: XRP/BTC ::: 1e-08 BTC
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.137573692529312
+
+Profit opportunity for exchange ::: bitfinex
+USD to USDT at 0.9980019980019981 = 9.98001998001998reversed pair order rate ::: 1.002002002002002 market list price ::: 0.9980019980019981
+
+USDT to KAN at 199.91995197118274 = 1995.2051150770385reversed pair order rate ::: 0.005002002002002001 market list price ::: 199.91995197118274
+
+KAN to USD at 0.005026968 = 10.02983226692859
+
+Profit opportunity for exchange ::: bitfinex
+USD to USDT at 0.9974041533546325 = 9.974041533546325reversed pair order rate ::: 1.0026026026026027 market list price ::: 0.9974041533546325
+
+USDT to KAN at 199.91995197118274 = 1994.0099043451632reversed pair order rate ::: 0.005002002002002001 market list price ::: 199.91995197118274
+
+KAN to USD at 0.005026968 = 10.023823980826196
+
+Profit opportunity for exchange ::: bitfinex
+XLM to JPY at 13.821164999999999 = 138.21165
+
+JPY to ETH at 3.0165775885496876e-05 = 0.004169261658664734reversed pair order rate ::: 33150.15015015015 market list price ::: 3.0165775885496876e-05
+
+ETH to XLM at 2393.789087772267 = 9.980333062578943reversed pair order rate ::: 0.00041774774774774767 market list price ::: 2393.789087772267
+
+Profit opportunity for exchange ::: bitfinex
+USD to USDT at 0.9976033553025764 = 9.976033553025763reversed pair order rate ::: 1.0024024024024025 market list price ::: 0.9976033553025764
+
+USDT to KAN at 199.91995197118274 = 1994.408148783818reversed pair order rate ::: 0.005002002002002001 market list price ::: 199.91995197118274
+
+KAN to USD at 0.005026968 = 10.02582594287549
+
+
+

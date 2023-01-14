@@ -1,0 +1,142 @@
+
+
+
+
+
+Exmo Chain ::: ['USD', 'GAS', 'BTC'], ['GAS', 'BTC', 'USD'] Highest min buy in USDT for chain ::: 11.266
+Lowest max buy in USDT for transfer chain ::: 27.086552
+Chain is NOT profitable
+ starting value::: 0.01 ending value ::: 0.009308805194958823
+
+Exmo Chain ::: ['USD', 'MNX', 'BTC', 'XLM'], ['MNX', 'BTC', 'XLM', 'USD'] Highest min buy in USDT for chain ::: 0
+Lowest max buy in USDT for transfer chain ::: inf
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 0.01 ending value ::: 0.01003205515613233
+
+Exmo Chain ::: ['USD', 'MNX', 'BTC', 'XLM'], ['MNX', 'BTC', 'XLM', 'USD'] Highest min buy in USDT for chain ::: 0
+Lowest max buy in USDT for transfer chain ::: inf
+Exmo Chain ::: ['USD', 'MNX', 'BTC', 'XLM'], ['MNX', 'BTC', 'XLM', 'USD'] Highest min buy in USDT for chain ::: 0
+Lowest max buy in USDT for transfer chain ::: inf
+Chain is NOT profitable
+ starting value::: 0.01 ending value ::: 0.009990092243212593
+
+Exmo Chain ::: ['USD', 'DAI', 'BTC', 'MNX'], ['DAI', 'BTC', 'MNX', 'USD'] Chain requires higher order arbitrage
+Lowest max buy in USDT for transfer chain ::: inf
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 0.01 ending value ::: 0.01035168622216869
+
+Exmo Chain ::: ['USD', 'DAI', 'BTC', 'MNX'], ['DAI', 'BTC', 'MNX', 'USD'] Chain requires higher order arbitrage
+Lowest max buy in USDT for transfer chain ::: inf
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 0.01 ending value ::: 0.01035168622216869
+
+Exmo Chain ::: ['USD', 'DAI', 'BTC', 'MNX'], ['DAI', 'BTC', 'MNX', 'USD'] Chain requires higher order arbitrage
+Lowest max buy in USDT for transfer chain ::: inf
+Chain is NOT profitable
+ starting value::: 0.01 ending value ::: 5.2473606541695976e-11
+
+Exmo Chain ::: ['USD', 'DAI', 'BTC', 'MNX'], ['DAI', 'BTC', 'MNX', 'USD'] Chain requires higher order arbitrage
+Exmo Chain ::: ['USD', 'DAI', 'BTC', 'MNX'], ['DAI', 'BTC', 'MNX', 'USD'] Highest min buy in USDT for chain ::: 0
+Lowest max buy in USDT for transfer chain ::: inf
+Chain is NOT profitable
+ starting value::: 0.01 ending value ::: 0.01
+
+Exmo Chain ::: ['USD', 'DAI', 'BTC', 'MNX'], ['DAI', 'BTC', 'MNX', 'USD'] Highest min buy in USDT for chain ::: 0
+Lowest max buy in USDT for transfer chain ::: inf
+Chain is NOT profitable
+ starting value::: 0.01 ending value ::: 0.01
+
+Exmo Chain ::: ['BTC', 'ZGC', 'ETP'], ['ZGC', 'ETP', 'BTC'] Highest min buy in USDT for chain ::: 0
+Lowest max buy in USDT for transfer chain ::: inf
+Chain is NOT profitable
+ starting value::: 0.01 ending value ::: 3.7199864876929984e-10
+
+Exmo Chain ::: ['BTC', 'ZGC', 'ETP'], ['ZGC', 'ETP', 'BTC'] Highest min buy in USDT for chain ::: 0
+Lowest max buy in USDT for transfer chain ::: inf
+Chain is NOT profitable
+ starting value::: 0.01 ending value ::: 6.049743656440771e-91
+
+Exmo Chain ::: ['BTC', 'BCH', 'USD'], ['BCH', 'USD', 'BTC'] Exmo Chain ::: ['BTC', 'BCH', 'USD'], ['BCH', 'USD', 'BTC'] Exmo Chain ::: ['BTC', 'BCH', 'USD'], ['BCH', 'USD', 'BTC'] Exmo Chain ::: ['ETP', 'BTC', 'USD', 'XRP'], ['BTC', 'USD', 'XRP', 'ETP'] Exmo Chain ::: ['BTC', 'HOT Token', 'USD', 'QASH', 'NPLC'], ['HOT Token', 'USD', 'QASH', 'NPLC', 'BTC'] Highest min buy in USDT for chain ::: 0
+Lowest max buy in USDT for transfer chain ::: inf
+Exmo Chain ::: ['BTC', 'HOT Token', 'USD', 'QASH', 'NPLC'], ['HOT Token', 'USD', 'QASH', 'NPLC', 'BTC'] Highest min buy in USDT for chain ::: 0
+Lowest max buy in USDT for transfer chain ::: inf
+Liquid is profitable
+  with calculated fees ::: 0.2
+ starting value::: 0.0001 ending value ::: 0.0001397699129302058
+
+Exmo Chain ::: ['BTC', 'MNX', 'USD'], ['MNX', 'USD', 'BTC'] Highest min buy in USDT for chain ::: 12.833147783500001
+Lowest max buy in USDT for transfer chain ::: 128.71
+Chain is NOT profitable
+ starting value::: 0.0001 ending value ::: 5.509919597787199e-58
+
+Exmo Chain ::: ['BTC', 'MNX', 'USD'], ['MNX', 'USD', 'BTC'] Chain requires higher order arbitrage
+Lowest max buy in USDT for transfer chain ::: 111.34027347101406
+Chain is NOT profitable
+ starting value::: 0.0001 ending value ::: 3.574270803105634e-14
+
+Exmo Chain ::: ['BTC', 'MNX', 'USD'], ['MNX', 'USD', 'BTC'] Highest min buy in USDT for chain ::: 12.6904170404
+Lowest max buy in USDT for transfer chain ::: 354.2386301997219
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 0.0001 ending value ::: 0.007076678164148589
+
+Exmo Chain ::: ['BTC', 'MNX', 'USD'], ['MNX', 'USD', 'BTC'] Highest min buy in USDT for chain ::: 12.540000000000001
+Lowest max buy in USDT for transfer chain ::: 16.91917952
+Exmo Chain ::: ['BTC', 'MNX', 'USD'], ['MNX', 'USD', 'BTC'] Chain requires higher order arbitrage
+Lowest max buy in USDT for transfer chain ::: 1306.1571941218788
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 0.0001 ending value ::: 0.170619776296823
+
+Exmo Chain ::: ['BTC', 'MNX', 'USD'], ['MNX', 'USD', 'BTC'] Highest min buy in USDT for chain ::: 12.34100000001
+Lowest max buy in USDT for transfer chain ::: 266.65566416
+Chain is NOT profitable
+ starting value::: 0.0001 ending value ::: 8.279824032476038e-06
+
+Exmo Chain ::: ['RUB', 'WAVES', 'USD', 'STQ'], ['WAVES', 'USD', 'STQ', 'RUB'] Chain requires higher order arbitrage
+Exmo Chain ::: ['RUB', 'WAVES', 'USD', 'STQ'], ['WAVES', 'USD', 'STQ', 'RUB'] Chain requires higher order arbitrage
+Exmo Chain ::: ['RUB', 'WAVES', 'USD', 'STQ'], ['WAVES', 'USD', 'STQ', 'RUB'] Chain requires higher order arbitrage
+Exmo Chain ::: ['RUB', 'WAVES', 'USD', 'STQ'], ['WAVES', 'USD', 'STQ', 'RUB'] Chain requires higher order arbitrage
+Exmo Chain ::: ['RUB', 'WAVES', 'USD', 'STQ'], ['WAVES', 'USD', 'STQ', 'RUB'] Exmo Chain ::: ['RUB', 'WAVES', 'USD', 'STQ'], ['WAVES', 'USD', 'STQ', 'RUB'] Chain requires higher order arbitrage
+Lowest max buy in USDT for transfer chain ::: inf
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 0.0001 ending value ::: 1.5289596974670823
+
+Exmo Chain ::: ['RUB', 'WAVES', 'USD', 'STQ'], ['WAVES', 'USD', 'STQ', 'RUB'] Chain requires higher order arbitrage
+Lowest max buy in USDT for transfer chain ::: inf
+Chain is NOT profitable
+ starting value::: 0.0001 ending value ::: 1.5289597500861476
+
+Exmo Chain ::: ['USD', 'BTC', 'MNX'], ['BTC', 'MNX', 'USD'] Chain requires higher order arbitrage
+Lowest max buy in USDT for transfer chain ::: 245.46270238848464
+Chain is NOT profitable
+ starting value::: 0.0001 ending value ::: 15.377503652480124
+
+Exmo Chain ::: ['USD', 'BTC', 'MNX'], ['BTC', 'MNX', 'USD'] Highest min buy in USDT for chain ::: 12.306039825300001
+Lowest max buy in USDT for transfer chain ::: 1316.4563415111822
+Exmo Chain ::: ['USD', 'BTC', 'MNX'], ['BTC', 'MNX', 'USD'] Chain requires higher order arbitrage
+Lowest max buy in USDT for transfer chain ::: 2653.0042927629247
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 0.0001 ending value ::: 14.676470388635295
+
+Exmo Chain ::: ['USD', 'BTC', 'MNX'], ['BTC', 'MNX', 'USD'] Highest min buy in USDT for chain ::: 12.135193056939999
+Lowest max buy in USDT for transfer chain ::: 9525.20100547776
+Chain is NOT profitable
+ starting value::: 0.0001 ending value ::: 14.676470388635295
+
+Exmo Chain ::: ['RUB', 'ETH', 'ADA', 'USD', 'STQ'], ['ETH', 'ADA', 'USD', 'STQ', 'RUB'] Chain requires higher order arbitrage
+Lowest max buy in USDT for transfer chain ::: 8.866867296915023
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 0.0001 ending value ::: 0.06532281106680898
+
+Exmo Chain ::: ['USDT', 'BTC', 'KICK'], ['BTC', 'KICK', 'USDT'] Highest min buy in USDT for chain ::: 0.211001
+Lowest max buy in USDT for transfer chain ::: 3.2607747580358026
+Chain is NOT profitable
+ starting value::: 0.0001 ending value ::: 554.4444442448444
+

@@ -1,0 +1,1591 @@
+Profit opportunity for exchange ::: bitfinex
+USD to KAN at 204.08580183861085 = 2040.8580183861086reversed pair order rate ::: 0.0048998998998998995 market list price ::: 204.08580183861085
+
+KAN to USDT at 0.0049330619999999985 = 10.06767913789581
+
+USDT to ZBT at 2.963512310886977 = 29.835691067214224reversed pair order rate ::: 0.3374374374374374 market list price ::: 2.963512310886977
+
+ZBT to USD at 0.33947019 = 10.128327715368515
+
+Min buy ::: KAN/USD ::: 1e-05 USD
+Bitfinex is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.004122970963252
+
+Profit opportunity for exchange ::: bitfinex2
+USD to KAN at 204.08580183861085 = 2040.8580183861086reversed pair order rate ::: 0.0048998998998998995 market list price ::: 204.08580183861085
+
+KAN to USDT at 0.0049330619999999985 = 10.06767913789581
+
+USDT to USD at 0.9979011 = 10.046548086153281
+
+Min buy ::: KAN/USD ::: 1e-05 USD
+Bitfinex is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.016408462018088
+
+Profit opportunity for exchange ::: bitlish
+BTC to RUB at 664746.3900000005 = 6647463.900000005
+
+RUB to USDT at 0.015468729576442984 = 102827.8214382671reversed pair order rate ::: 64.64654999999999 market list price ::: 0.015468729576442984
+
+USDT to ETH at 0.003560112499554987 = 366.07861240438297reversed pair order rate ::: 280.88999999999993 market list price ::: 0.003560112499554987
+
+ETH to BTC at 0.028059999999999998 = 10.272165864066986
+
+Min buy ::: BTC/RUB ::: None RUB
+Bitlish is profitable
+  with calculated fees ::: 0.003
+ starting value::: 10 ending value ::: 10.149453462092962
+
+Profit opportunity for exchange ::: bittrex
+USDT to ETH at 0.003343457785054485 = 0.03343457785054485reversed pair order rate ::: 299.0915585864662 market list price ::: 0.003343457785054485
+
+ETH to NPXS at 336993.2432432435 = 11267.226826323822reversed pair order rate ::: 2.9674185463659126e-06 market list price ::: 336993.2432432435
+
+NPXS to USDT at 0.0008877750000000002 = 10.002762295739632
+
+Min buy ::: ETH/USDT ::: 1e-08 USDT
+Bittrex is profitable
+  with calculated fees ::: 0.0025
+ starting value::: 10 ending value ::: 10.002762295739622
+
+Profit opportunity for exchange ::: cobinhood
+COB to BTC at 6.799999999999996e-07 = 6.799999999999996e-06
+
+BTC to USDT at 10620.29999999999 = 0.07221803999999989
+
+USDT to USD at 0.9801 = 0.07078090100399989
+
+USD to COB at 141.8842224744608 = 10.042693104994306reversed pair order rate ::: 0.007048000000000001 market list price ::: 141.8842224744608
+
+Min buy ::: COB/BTC ::: None BTC
+COBINHOOD is profitable
+  with calculated fees ::: 0.0
+ starting value::: 10 ending value ::: 10.042693104994324
+
+Profit opportunity for exchange ::: coss
+COSS to GUSD at 0.09832901720216236 = 0.9832901720216236
+
+GUSD to XRP at 2.1708695652173913 = 2.134594708219116reversed pair order rate ::: 0.4606449028640096 market list price ::: 2.1708695652173913
+
+XRP to USDT at 0.45935600000000004 = 0.9805388867887004
+
+USDT to EUR at 0.9986 = 0.9791661323471963
+
+EUR to COSS at 33.28666666666667 = 32.59317665873034reversed pair order rate ::: 0.030042058882435406 market list price ::: 33.28666666666667
+
+Profit opportunity for exchange ::: coss
+MKR to DAI at 757.9853327999999 = 7579.853327999999
+
+DAI to MKR at 0.0013090110189731882 = 9.922111528552591reversed pair order rate ::: 763.9355097135989 market list price ::: 0.0013090110189731882
+
+Min buy ::: COSS/GUSD ::: None GUSD
+COSS is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.701060273671649
+
+Profit opportunity for exchange ::: crex24
+ETH to EUR at 266.6399999999999 = 2666.3999999999987
+
+EUR to ETH at 0.003818525519848771 = 10.181716446124758reversed pair order rate ::: 261.8811881188119 market list price ::: 0.003818525519848771
+
+Profit opportunity for exchange ::: crex24
+USD to SNL at 66.88741721854304 = 668.8741721854303reversed pair order rate ::: 0.014950495049504953 market list price ::: 66.88741721854304
+
+SNL to USD at 0.0152409 = 10.194244370860925
+
+Profit opportunity for exchange ::: ethfinex
+ETH to BTC at 0.027935036999999996 = 0.27935036999999996
+
+BTC to SAN at 8840.707964601777 = 2469.655040973453reversed pair order rate ::: 0.00011311311311311302 market list price ::: 8840.707964601777
+
+SAN to USD at 1.1987999999999999 = 2960.6224631189752
+
+USD to ETH at 0.003397959183673469 = 10.060074287945088reversed pair order rate ::: 294.29429429429433 market list price ::: 0.003397959183673469
+
+Profit opportunity for exchange ::: exmo
+USDT to ETH at 0.003325358271201279 = 0.033253582712012786reversed pair order rate ::: 300.7194769539079 market list price ::: 0.003325358271201279
+
+ETH to ETZ at 1134.116684470101 = 37.71344297210021reversed pair order rate ::: 0.0008817434869739483 market list price ::: 1134.116684470101
+
+ETZ to USDT at 0.266465002 = 10.049312656987569
+
+Min buy ::: ETH/USDT ::: 0.01 USDT
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.054272086754269
+
+Profit opportunity for exchange ::: liquid
+BTC to QASH at 72266.47356987697 = 722664.7356987697reversed pair order rate ::: 1.3837675350701391e-05 market list price ::: 72266.47356987697
+
+QASH to NPLC at 184.8182373747661 = 133561622.66474783reversed pair order rate ::: 0.005410721442885774 market list price ::: 184.8182373747661
+
+NPLC to BTC at 1.3971999999999998e-07 = 18.661229918718565
+
+Profit opportunity for exchange ::: livecoin
+TRX to USD at 0.03468745 = 0.34687450000000003
+
+USD to RUB at 60.850281982 = 21.10741113736526
+
+RUB to LKE at 669.9328859060405 = 14140.54885726041reversed pair order rate ::: 0.0014926868363053492 market list price ::: 669.9328859060405
+
+LKE to TRX at 0.0007986099099999997 = 11.292782450247334
+
+Min buy ::: TRX/USD ::: 1e-05 USD
+LiveCoin is profitable
+  with calculated fees ::: 0.0018
+ starting value::: 10 ending value ::: 11.299281893384169
+
+Profit opportunity for exchange ::: okcoinusd
+USD to BAT at 3.1214865708931923 = 31.214865708931924reversed pair order rate ::: 0.32036018009004497 market list price ::: 3.1214865708931923
+
+BAT to ETH at 0.0016991499999999997 = 0.053038739069331674 reversed rate :: non confirmed pair:: order price ::: 588.5295588970957 market list price ::: 0.0016991499999999997
+
+ETH to ZEC at 3.0150829562594263 = 0.15991619818943287 reversed rate :: non confirmed pair:: order price ::: 0.3316658329164583 market list price ::: 3.0150829562594263
+
+ZEC to USD at 106.36679000000001 = 17.00977267041379
+
+Min buy ::: BAT/USD ::: 0.0001 USD
+OKCoin USD is profitable
+  with calculated fees ::: 0.001
+ starting value::: 10 ending value ::: 3316.9040106183634
+
+Profit opportunity for exchange ::: southxchange
+LTC to VTAR at 12475000.000000013 = 124750000.00000013reversed pair order rate ::: 8.016032064128248e-08 market list price ::: 12475000.000000013
+
+VTAR to DOGE at 0.004091799999999999 = 510452.0500000004
+
+DOGE to BTC at 2.9940000000000005e-07 = 0.15282934377000015
+
+BTC to STRAT at 11435.774034605247 = 1747.721841210727reversed pair order rate ::: 8.744488977955913e-05 market list price ::: 11435.774034605247
+
+STRAT to USD at 0.9796368 = 1712.1326318137847
+
+USD to LTC at 0.00732389983723036 = 12.539487903457765reversed pair order rate ::: 136.53927855711427 market list price ::: 0.00732389983723036
+
+Min buy ::: VTAR/LTC ::: None LTC
+SouthXchange is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 12.53948790345776
+
+Profit opportunity for exchange ::: exmo
+BTC to XEM at 118668.25208085614 = 1186682.5208085615reversed pair order rate ::: 8.426853707414828e-06 market list price ::: 118668.25208085614
+
+XEM to EUR at 0.0815559612 = 96781.03362378123
+
+EUR to BCH at 0.00236642179489971 = 229.02474730023755reversed pair order rate ::: 422.5789342184369 market list price ::: 0.00236642179489971
+
+BCH to ETH at 1.5478911237800002 = 354.50537347199526
+
+ETH to USD at 296.40599999999995 = 105077.5197293402
+
+USD to STQ at 7183.990786063924 = 754875933.5580302reversed pair order rate ::: 0.00013919839679358713 market list price ::: 7183.990786063924
+
+STQ to RUB at 0.008572819999999998 = 6471415.500724952
+
+RUB to BTC at 1.5501320907681256e-06 = 10.031548840368027reversed pair order rate ::: 645106.314458968 market list price ::: 1.5501320907681256e-06
+
+Profit opportunity for exchange ::: exmo
+USD to INK at 95.55542789299321 = 955.554278929932reversed pair order rate ::: 0.010465130260521045 market list price ::: 95.55542789299321
+
+INK to BTC at 1.01796e-06 = 0.0009727160337795136
+
+BTC to LTC at 78.9431427439149 = 0.0767892607039509reversed pair order rate ::: 0.012667344689378761 market list price ::: 78.9431427439149
+
+LTC to USD at 133.13258398449997 = 10.223152699776406
+
+Profit opportunity for exchange ::: exmo
+BTC to ZEC at 99.58092197166235 = 995.8092197166235reversed pair order rate ::: 0.010042084168336672 market list price ::: 99.58092197166235
+
+ZEC to RUB at 6436.684641222324 = 6409709.910137577
+
+RUB to LSK at 0.007858267716535437 = 50369.21645919138reversed pair order rate ::: 127.254509018036 market list price ::: 0.007858267716535437
+
+LSK to BTC at 0.00019920080000000002 = 10.03358821404409
+
+Profit opportunity for exchange ::: exmo
+BTC to EOS at 1495.8930391510278 = 14958.930391510277reversed pair order rate ::: 0.0006684969939879761 market list price ::: 1495.8930391510278
+
+EOS to PTI at 1559.3993656150883 = 23326946.56280139reversed pair order rate ::: 0.0006412725450901802 market list price ::: 1559.3993656150883
+
+PTI to BTC at 4.291399999999996e-07 = 10.01052584796058
+
+Min buy ::: EOS/BTC ::: 1e-08 BTC
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.010525847960588
+
+Profit opportunity for exchange ::: exmo
+BTC to EOS at 1495.8930391510278 = 14958.930391510277reversed pair order rate ::: 0.0006684969939879761 market list price ::: 1495.8930391510278
+
+EOS to PTI at 1559.3993656150883 = 23326946.56280139reversed pair order rate ::: 0.0006412725450901802 market list price ::: 1559.3993656150883
+
+PTI to BTC at 4.291399999999996e-07 = 10.01052584796058
+
+Min buy ::: EOS/BTC ::: 1e-08 BTC
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.009025604300254
+
+Profit opportunity for exchange ::: exmo
+BTC to EOS at 1499.962425790938 = 14999.62425790938reversed pair order rate ::: 0.0006666833667334666 market list price ::: 1499.962425790938
+
+EOS to PTI at 1559.3993656150883 = 23390404.552248575reversed pair order rate ::: 0.0006412725450901802 market list price ::: 1559.3993656150883
+
+PTI to BTC at 4.291399999999996e-07 = 10.037758209551944
+
+Min buy ::: EOS/BTC ::: 1e-08 BTC
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.037758209551946
+
+Profit opportunity for exchange ::: exmo
+USD to QTUM at 0.26730756915130294 = 2.6730756915130294reversed pair order rate ::: 3.7410089178356727 market list price ::: 0.26730756915130294
+
+QTUM to BTC at 0.00035639577999999994 = 0.0009526728960758253
+
+BTC to USD at 10508.940000019953 = 10.011582304506092
+
+Min buy ::: QTUM/USD ::: 1e-08 USD
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.011582304506105
+
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 23453855.276676327
+
+Profit opportunity for exchange ::: exmo
+XRP to USD at 0.45409 = 4.5409
+
+USD to TRX at 26.87341061817461 = 122.02947027606908reversed pair order rate ::: 0.037211503006012024 market list price ::: 26.87341061817461
+
+TRX to BTC at 3.522939999999998e-06 = 0.00042990250201437453
+
+BTC to ETZ at 42163.07562315165 = 18.12601170301418reversed pair order rate ::: 2.371743486973949e-05 market list price ::: 42163.07562315165
+
+ETZ to USDT at 0.26636428384 = 4.8281221261488305
+
+USDT to XRP at 2.147853222855913 = 10.370097668990708reversed pair order rate ::: 0.46558116232464936 market list price ::: 2.147853222855913
+
+Min buy ::: XRP/USD ::: 0.001 USD
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.370097668990718
+
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.318365672682814
+
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.307059696760442
+
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.306407367270616
+
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.339972375854177
+
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 240891.68604025384
+
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.289543834197817
+
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.289543834197817
+
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.289543834197817
+
+Profit opportunity for exchange ::: exmo
+USD to TRX at 26.64895054403379 = 266.4895054403379reversed pair order rate ::: 0.03752492985971943 market list price ::: 26.64895054403379
+
+TRX to BTC at 3.532920000000001e-06 = 0.0009414861035602788
+
+BTC to ETC at 1188.095238095238 = 1.1185751563728075reversed pair order rate ::: 0.0008416833667334669 market list price ::: 1188.095238095238
+
+ETC to USD at 8.942079999999999 = 10.002388534298152
+
+Min buy ::: TRX/USD ::: 0.0001 USD
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.002388534298154
+
+Profit opportunity for exchange ::: exmo
+USD to TRX at 26.64895054403379 = 266.4895054403379reversed pair order rate ::: 0.03752492985971943 market list price ::: 26.64895054403379
+
+TRX to BTC at 3.532920000000001e-06 = 0.0009414861035602788
+
+BTC to ETC at 1188.095238095238 = 1.1185751563728075reversed pair order rate ::: 0.0008416833667334669 market list price ::: 1188.095238095238
+
+ETC to USD at 8.942079999999999 = 10.002388534298152
+
+Min buy ::: TRX/USD ::: 0.0001 USD
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.002388534298154
+
+Profit opportunity for exchange ::: exmo
+USD to STQ at 7232.408145517795 = 72324.08145517795reversed pair order rate ::: 0.0001382665330661322 market list price ::: 7232.408145517795
+
+STQ to RUB at 0.008453059999999998 = 611.3597999855064
+
+RUB to USD at 0.01636065578598226 = 10.002247248949832reversed pair order rate ::: 61.12224430861725 market list price ::: 0.01636065578598226
+
+Min buy ::: STQ/USD ::: 0.0001 USD
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.002247248949832
+
+Profit opportunity for exchange ::: exmo
+USD to STQ at 7232.408145517795 = 72324.08145517795reversed pair order rate ::: 0.0001382665330661322 market list price ::: 7232.408145517795
+
+STQ to RUB at 0.008453059999999998 = 611.3597999855064
+
+RUB to USD at 0.01636065578598226 = 10.002247248949832reversed pair order rate ::: 61.12224430861725 market list price ::: 0.01636065578598226
+
+Min buy ::: STQ/USD ::: 0.0001 USD
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.002247248949832
+
+Profit opportunity for exchange ::: exmo
+USD to STQ at 7232.408145517795 = 72324.08145517795reversed pair order rate ::: 0.0001382665330661322 market list price ::: 7232.408145517795
+
+STQ to RUB at 0.008453059999999998 = 611.3597999855064
+
+RUB to USD at 0.01636065578598226 = 10.002247248949832reversed pair order rate ::: 61.12224430861725 market list price ::: 0.01636065578598226
+
+Min buy ::: STQ/USD ::: 0.0001 USD
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.002247248949832
+
+Profit opportunity for exchange ::: exmo
+USD to STQ at 7232.408145517795 = 72324.08145517795reversed pair order rate ::: 0.0001382665330661322 market list price ::: 7232.408145517795
+
+STQ to RUB at 0.008453059999999998 = 611.3597999855064
+
+RUB to TRX at 0.43391304347826093 = 265.27699147197194reversed pair order rate ::: 2.3046092184368736 market list price ::: 0.43391304347826093
+
+TRX to BTC at 3.5628600000000004e-06 = 0.0009451447818358301
+
+BTC to USD at 10589.778000000004 = 10.008873417499878
+
+Profit opportunity for exchange ::: exmo
+EUR to LTC at 0.008071909555166415 = 0.08071909555166415reversed pair order rate ::: 123.88642280561126 market list price ::: 0.008071909555166415
+
+LTC to EUR at 123.25299999999997 = 9.94887068402926
+
+Profit opportunity for exchange ::: rightbtc
+USD to ETH at 0.003237316725055144 = 0.03237316725055144reversed pair order rate ::: 308.89779559118244 market list price ::: 0.003237316725055144
+
+ETH to XRP at 671.4660566507434 = 21.737482955022767reversed pair order rate ::: 0.0014892785571142286 market list price ::: 671.4660566507434
+
+XRP to USD at 0.4632716 = 10.070358508546125
+
+Min buy ::: ETH/USD ::: 1e-08 USD
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.070358508546127
+
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.063776125956462
+
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.068680500286849
+
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.061815713737516
+
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.061815713737516
+
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.069474225286767
+
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.02417916521474
+
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.025801229157372
+
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.017912983951542
+
+Profit opportunity for exchange ::: rightbtc
+XRP to ETP at 0.24956986000000003 = 2.4956986000000003
+
+ETP to ETH at 0.0059999760000000015 = 0.014974131703233605
+
+ETH to XRP at 671.4660566507434 = 10.05462116653915reversed pair order rate ::: 0.0014892785571142286 market list price ::: 671.4660566507434
+
+Min buy ::: XRP/ETP ::: 1e-08 ETP
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.054621166539148
+
+Profit opportunity for exchange ::: exmo
+RUB to TRX at 0.42832618025751074 = 4.283261802575107reversed pair order rate ::: 2.3346693386773545 market list price ::: 0.42832618025751074
+
+TRX to BTC at 3.6027800000000037e-06 = 1.5431649957081562e-05
+
+BTC to SMART at 1073118.2795698915 = 16.559985652868157reversed pair order rate ::: 9.318637274549106e-07 market list price ::: 1073118.2795698915
+
+SMART to RUB at 0.60878 = 10.081388065753076
+
+Min buy ::: TRX/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.081388065753075
+
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.109314348483693
+
+Profit opportunity for exchange ::: exmo
+USD to ETC at 0.11025896520949154 = 1.1025896520949154reversed pair order rate ::: 9.0695572745491 market list price ::: 0.11025896520949154
+
+ETC to BTC at 0.0008372222000000001 = 0.0009231125342241398
+
+BTC to MNX at 123667.90582403955 = 114.1593939474214reversed pair order rate ::: 8.086172344689386e-06 market list price ::: 123667.90582403955
+
+MNX to USD at 0.08782400000000001 = 10.02593461403834
+
+Min buy ::: ETC/USD ::: 0.01 USD
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.013526279119978
+
+Profit opportunity for exchange ::: exmo
+EOS to PTI at 1559.3993656150883 = 15593.993656150884reversed pair order rate ::: 0.0006412725450901802 market list price ::: 1559.3993656150883
+
+PTI to BTC at 4.191599999999997e-07 = 0.006536378380912199
+
+BTC to EOS at 1536.3063992241498 = 10.041879934345799reversed pair order rate ::: 0.0006509118236472946 market list price ::: 1536.3063992241498
+
+Min buy ::: PTI/EOS ::: 1e-07 EOS
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.041879934345804
+
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.040179806917408
+
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.036009206526836
+
+Profit opportunity for exchange ::: exmo
+BTC to EOS at 1535.4082370498004 = 15354.082370498003reversed pair order rate ::: 0.0006512925851703408 market list price ::: 1535.4082370498004
+
+EOS to PTI at 1559.3993656150883 = 23943146.308156397reversed pair order rate ::: 0.0006412725450901802 market list price ::: 1559.3993656150883
+
+PTI to BTC at 4.191599999999997e-07 = 10.036009206526828
+
+Min buy ::: EOS/BTC ::: 1e-08 BTC
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.036009206526836
+
+Profit opportunity for exchange ::: exmo
+BTC to USDT at 11014.296300223406 = 110142.96300223406
+
+USDT to ETZ at 3.697863916681124 = 407293.68856230535reversed pair order rate ::: 0.2704263927855711 market list price ::: 3.697863916681124
+
+ETZ to BTC at 2.481028e-05 = 10.105070455463594
+
+Profit opportunity for exchange ::: exmo
+DAI to MKR at 0.0013260175754267241 = 0.013260175754267241reversed pair order rate ::: 754.1378172745494 market list price ::: 0.0013260175754267241
+
+MKR to DAI at 718.5599999999998 = 9.528231889986266
+
+Profit opportunity for exchange ::: exmo
+BTC to USDT at 10983.542381622805 = 109835.42381622805
+
+USDT to ETZ at 3.697863916681124 = 406156.45050340827reversed pair order rate ::: 0.2704263927855711 market list price ::: 3.697863916681124
+
+ETZ to BTC at 2.481028e-05 = 10.0768552607957
+
+Min buy ::: BTC/USDT ::: 0.01 USDT
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.076855260795696
+
+Profit opportunity for exchange ::: exmo
+BTC to USDT at 10980.993999999993 = 109809.93999999993
+
+USDT to ETZ at 3.697863916681124 = 406062.21481891896reversed pair order rate ::: 0.2704263927855711 market list price ::: 3.697863916681124
+
+ETZ to BTC at 2.481028e-05 = 10.074517247077528
+
+Min buy ::: BTC/USDT ::: 0.01 USDT
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.074517247077534
+
+Profit opportunity for exchange ::: exmo
+BTC to ETH at 35.527431057026504 = 355.274310570265reversed pair order rate ::: 0.028147264529058122 market list price ::: 35.527431057026504
+
+ETH to ETZ at 1141.7196723561976 = 405623.669460857reversed pair order rate ::: 0.0008758717434869744 market list price ::: 1141.7196723561976
+
+ETZ to BTC at 2.481028e-05 = 10.06363681395131
+
+Min buy ::: ETH/BTC ::: 1e-08 BTC
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.06363681395132
+
+Profit opportunity for exchange ::: rightbtc
+BTC to OOT at 739259.2592592594 = 7392592.592592594reversed pair order rate ::: 1.352705410821643e-06 market list price ::: 739259.2592592594
+
+OOT to ETH at 6.487000000000003e-05 = 479.55748148148183
+
+ETH to BTC at 0.027997892 = 13.426598574310528
+
+Min buy ::: OOT/BTC ::: 1e-08 BTC
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 13.42659857431052
+
+Profit opportunity for exchange ::: exmo
+BTC to EOS at 1535.0067675649063 = 15350.067675649063reversed pair order rate ::: 0.0006514629258517037 market list price ::: 1535.0067675649063
+
+EOS to PTI at 1559.3993656150883 = 23936885.795555823reversed pair order rate ::: 0.0006412725450901802 market list price ::: 1559.3993656150883
+
+PTI to BTC at 4.191599999999997e-07 = 10.03338505006517
+
+Min buy ::: EOS/BTC ::: 1e-08 BTC
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.033385050065178
+
+Profit opportunity for exchange ::: exmo
+BTC to EOS at 1536.8505343558468 = 15368.505343558467reversed pair order rate ::: 0.0006506813627254511 market list price ::: 1536.8505343558468
+
+EOS to PTI at 1559.3993656150883 = 23965637.483197168reversed pair order rate ::: 0.0006412725450901802 market list price ::: 1559.3993656150883
+
+PTI to BTC at 4.191599999999997e-07 = 10.045436607456917
+
+Min buy ::: EOS/BTC ::: 1e-08 BTC
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.045436607456928
+
+Profit opportunity for exchange ::: exmo
+USD to GAS at 0.29352941176470587 = 2.9352941176470586reversed pair order rate ::: 3.4068136272545093 market list price ::: 0.29352941176470587
+
+GAS to BTC at 0.00031177520000000004 = 0.0009151519105882354
+
+BTC to USD at 10944.167800009987 = 10.015576071977385
+
+Min buy ::: GAS/USD ::: 0.01 USD
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.015576071977378
+
+Profit opportunity for exchange ::: exmo
+BTC to RUB at 670655.9999999995 = 6706559.999999995
+
+RUB to SMART at 1.62449654849827 = 10894783.57229655reversed pair order rate ::: 0.6155753306613226 market list price ::: 1.62449654849827
+
+SMART to BTC at 9.181599999999998e-07 = 10.003154484739799
+
+Profit opportunity for exchange ::: exmo
+DASH to UAH at 4414.840694917881 = 44148.40694917881
+
+UAH to DASH at 0.00022497390903237507 = 9.93223968890883reversed pair order rate ::: 4444.9598813527045 market list price ::: 0.00022497390903237507
+
+Profit opportunity for exchange ::: exmo
+USD to MNX at 10.395915634332106 = 103.95915634332106reversed pair order rate ::: 0.09619162324649298 market list price ::: 10.395915634332106
+
+MNX to BTC at 7.554859999999995e-06 = 0.0007853968718919019
+
+BTC to XLM at 100503.52467270897 = 78.9351538920562reversed pair order rate ::: 9.949899799599197e-06 market list price ::: 100503.52467270897
+
+XLM to USD at 0.12773230344 = 10.08256902902322
+
+Min buy ::: MNX/USD ::: 0.01 USD
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.08256902902323
+
+Profit opportunity for exchange ::: exmo
+USD to DAI at 1.0222958839786362 = 10.222958839786362reversed pair order rate ::: 0.9781903807615231 market list price ::: 1.0222958839786362
+
+DAI to BTC at 7.456058000000002e-05 = 0.0007622297404105984
+
+BTC to MNX at 141963.01564722622 = 108.20843256469095reversed pair order rate ::: 7.044088176352703e-06 market list price ::: 141963.01564722622
+
+MNX to USD at 0.09524942937999999 = 10.306791455891021
+
+Min buy ::: DAI/USD ::: 0.001 USD
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.306791455891018
+
+Profit opportunity for exchange ::: rightbtc
+BTC to ZGC at 5252631.578947367 = 52526315.78947367reversed pair order rate ::: 1.9038076152304615e-07 market list price ::: 5252631.578947367
+
+ZGC to ETP at 0.0024949999999999994 = 131053.15789473677
+
+ETP to BTC at 0.00014894152000000007 = 19.519256537642104
+
+Min buy ::: ZGC/BTC ::: 1e-08 BTC
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 19.519256537642104
+
+Profit opportunity for exchange ::: rightbtc
+BTC to ZGC at 5252631.578947367 = 52526315.78947367reversed pair order rate ::: 1.9038076152304615e-07 market list price ::: 5252631.578947367
+
+ZGC to ETP at 0.0024949999999999994 = 131053.15789473677
+
+ETP to BTC at 0.00014894152000000007 = 19.519256537642104
+
+Min buy ::: ZGC/BTC ::: 1e-08 BTC
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 19.519256537642104
+
+Profit opportunity for exchange ::: rightbtc
+BTC to XEM at 137655.17241379316 = 1376551.7241379316reversed pair order rate ::: 7.26452905811623e-06 market list price ::: 137655.17241379316
+
+XEM to USD at 0.09920119999999999 = 136555.58289655176
+
+USD to BTC at 7.806468417829096e-05 = 10.660168451601743reversed pair order rate ::: 12809.889779559122 market list price ::: 7.806468417829096e-05
+
+Profit opportunity for exchange ::: rightbtc
+BTC to BCH at 26.41889030072004 = 264.1889030072004reversed pair order rate ::: 0.03785170340681362 market list price ::: 26.41889030072004
+
+BCH to USD at 477.55297999999993 = 126164.19791401949
+
+USD to BTC at 7.94588517797827e-05 = 10.024862301965245reversed pair order rate ::: 12585.130260521048 market list price ::: 7.94588517797827e-05
+
+Profit opportunity for exchange ::: okcoinusd
+EUR to BCH at 0.002336372136512388 = 0.02336372136512388reversed pair order rate ::: 428.01400700350194 market list price ::: 0.002336372136512388
+
+BCH to EUR at 99950000.00000015 = 2335203.9504441353
+
+Profit opportunity for exchange ::: liquid
+BTC to HOT Token at 845762.7118644068 = 8457627.118644068reversed pair order rate ::: 1.1823647294589177e-06 market list price ::: 845762.7118644068
+
+HOT Token to USD at 0.019960000000000002 = 168814.23728813563
+
+USD to QASH at 6.577039673125082 = 1110297.9360324196reversed pair order rate ::: 0.1520440881763527 market list price ::: 6.577039673125082
+
+QASH to NPLC at 184.8182373747661 = 205203307.4983526reversed pair order rate ::: 0.005410721442885774 market list price ::: 184.8182373747661
+
+NPLC to BTC at 1.3971999999999998e-07 = 28.67100612366982
+
+Profit opportunity for exchange ::: liquid
+BTC to HOT Token at 845762.7118644068 = 8457627.118644068reversed pair order rate ::: 1.1823647294589177e-06 market list price ::: 845762.7118644068
+
+HOT Token to USD at 0.019960000000000002 = 168814.23728813563
+
+USD to QASH at 6.574440052700923 = 1109859.0830932765reversed pair order rate ::: 0.15210420841683364 market list price ::: 6.574440052700923
+
+QASH to NPLC at 184.8182373747661 = 205122199.47167343reversed pair order rate ::: 0.005410721442885774 market list price ::: 184.8182373747661
+
+NPLC to BTC at 1.3971999999999998e-07 = 28.659673710182208
+
+Profit opportunity for exchange ::: liquid
+BTC to HOT Token at 845762.7118644068 = 8457627.118644068reversed pair order rate ::: 1.1823647294589177e-06 market list price ::: 845762.7118644068
+
+HOT Token to USD at 0.019960000000000002 = 168814.23728813563
+
+USD to QASH at 6.574440052700923 = 1109859.0830932765reversed pair order rate ::: 0.15210420841683364 market list price ::: 6.574440052700923
+
+QASH to NPLC at 184.8182373747661 = 205122199.47167343reversed pair order rate ::: 0.005410721442885774 market list price ::: 184.8182373747661
+
+Profit opportunity for exchange ::: liquid
+BTC to HOT Token at 845762.7118644068 = 8457627.118644068reversed pair order rate ::: 1.1823647294589177e-06 market list price ::: 845762.7118644068
+
+HOT Token to USD at 0.019960000000000002 = 168814.23728813563
+
+USD to QASH at 6.574440052700923 = 1109859.0830932765reversed pair order rate ::: 0.15210420841683364 market list price ::: 6.574440052700923
+
+QASH to NPLC at 184.8182373747661 = 205122199.47167343reversed pair order rate ::: 0.005410721442885774 market list price ::: 184.8182373747661
+
+NPLC to BTC at 1.3971999999999998e-07 = 28.659673710182208
+
+Profit opportunity for exchange ::: liquid
+XRP to JPY at 49.69840400000001 = 496.9840400000001
+
+JPY to XRP at 0.02000000400801684 = 9.939682791920402reversed pair order rate ::: 49.99998997995991 market list price ::: 0.02000000400801684
+
+Profit opportunity for exchange ::: rightbtc
+BTC to USD at 12750.228440000012 = 127502.28440000012
+
+USD to XRP at 2.1471600688468158 = 273767.81375043053reversed pair order rate ::: 0.4657314629258517 market list price ::: 2.1471600688468158
+
+XRP to BTC at 3.6646559999999966e-05 = 10.032648612673968
+
+Profit opportunity for exchange ::: rightbtc
+ETP to BTC at 0.00015740456000000005 = 0.0015740456000000005
+
+BTC to USD at 12743.252419999997 = 20.058460401390352
+
+USD to XRP at 2.1420905773771195 = 42.96703902251035reversed pair order rate ::: 0.46683366733466936 market list price ::: 2.1420905773771195
+
+XRP to ETP at 0.23513878000000002 = 10.103217135965476
+
+Profit opportunity for exchange ::: exmo
+MNX to ETH at 0.000262973 = 0.0026297300000000003
+
+ETH to BTC at 0.026189625779999996 = 6.887164460243939e-05
+
+BTC to MNX at 146980.85419734896 = 10.12281315364278reversed pair order rate ::: 6.803607214428862e-06 market list price ::: 146980.85419734896
+
+Min buy ::: MNX/ETH ::: 1e-08 ETH
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.137747419682968
+
+Profit opportunity for exchange ::: liquid
+BTC to JPY at 1400505.376 = 14005053.76 reversed rate :: non confirmed pair:: order price ::: 7.140279624317558e-07 market list price ::: 1400505.376
+
+JPY to QASH at 0.06160493827160495 = 862780.4723753089 reversed rate :: non confirmed pair:: order price ::: 16.232464929859717 market list price ::: 0.06160493827160495
+
+QASH to NPLC at 184.8182373747661 = 159457566.14577267 reversed rate :: non confirmed pair:: order price ::: 0.005410721442885774 market list price ::: 184.8182373747661
+
+NPLC to BTC at 1.3971999999999998e-07 = 22.279411141887355 reversed rate :: non confirmed pair:: order price ::: 7157171.485828801 market list price ::: 1.3971999999999998e-07
+
+Profit opportunity for exchange ::: liquid
+USD to HOT Token at 4.39647577092511 = 43.9647577092511 reversed rate :: non confirmed pair:: order price ::: 0.22745490981963928 market list price ::: 4.39647577092511
+
+HOT Token to USD at 0.019960000000000002 = 0.8775365638766521 reversed rate :: non confirmed pair:: order price ::: 50.1002004008016 market list price ::: 0.019960000000000002
+
+Profit opportunity for exchange ::: liquid
+BTC to HOT Token at 1217073.1707317075 = 12170731.707317075reversed pair order rate ::: 8.216432865731462e-07 market list price ::: 1217073.1707317075
+
+HOT Token to USD at 0.019960000000000002 = 242927.80487804883
+
+USD to QASH at 6.660882333311086 = 1618113.5237822381reversed pair order rate ::: 0.15013026052104209 market list price ::: 6.660882333311086
+
+QASH to NPLC at 184.8182373747661 = 299056889.33770496reversed pair order rate ::: 0.005410721442885774 market list price ::: 184.8182373747661
+
+NPLC to BTC at 1.3971999999999998e-07 = 41.784228578264134
+
+Min buy ::: HOT Token/BTC ::: 1e-08 BTC
+Liquid is profitable
+  with calculated fees ::: 0.2
+ starting value::: 10 ending value ::: 13.829599941202039
+
+Profit opportunity for exchange ::: liquid
+BTC to QASH at 86034.48275862064 = 860344.8275862064reversed pair order rate ::: 1.1623246492985979e-05 market list price ::: 86034.48275862064
+
+QASH to NPLC at 184.8182373747661 = 159007414.5689797reversed pair order rate ::: 0.005410721442885774 market list price ::: 184.8182373747661
+
+NPLC to BTC at 1.3971999999999998e-07 = 22.21651596357784
+
+Profit opportunity for exchange ::: liquid
+USD to HOT Token at 4.39647577092511 = 43.9647577092511reversed pair order rate ::: 0.22745490981963928 market list price ::: 4.39647577092511
+
+HOT Token to USD at 0.019960000000000002 = 0.8775365638766521
+
+Profit opportunity for exchange ::: liquid
+BTC to HOT Token at 1217073.1707317075 = 12170731.707317075reversed pair order rate ::: 8.216432865731462e-07 market list price ::: 1217073.1707317075
+
+HOT Token to USD at 0.019960000000000002 = 242927.80487804883
+
+USD to QASH at 6.665330929005543 = 1619194.2113690823reversed pair order rate ::: 0.1500300601202405 market list price ::: 6.665330929005543
+
+QASH to NPLC at 184.8182373747661 = 299256620.11265826reversed pair order rate ::: 0.005410721442885774 market list price ::: 184.8182373747661
+
+NPLC to BTC at 1.3971999999999998e-07 = 41.812134962140604
+
+Profit opportunity for exchange ::: liquid
+BTC to HOT Token at 1217073.1707317075 = 12170731.707317075reversed pair order rate ::: 8.216432865731462e-07 market list price ::: 1217073.1707317075
+
+HOT Token to USD at 0.019960000000000002 = 242927.80487804883
+
+USD to QASH at 6.665330929005543 = 1619194.2113690823reversed pair order rate ::: 0.1500300601202405 market list price ::: 6.665330929005543
+
+QASH to NPLC at 184.8182373747661 = 299256620.11265826reversed pair order rate ::: 0.005410721442885774 market list price ::: 184.8182373747661
+
+NPLC to BTC at 1.3971999999999998e-07 = 41.812134962140604
+
+Profit opportunity for exchange ::: liquid
+BTC to QASH at 86034.48275862064 = 860344.8275862064reversed pair order rate ::: 1.1623246492985979e-05 market list price ::: 86034.48275862064
+
+QASH to NPLC at 184.8182373747661 = 159007414.5689797reversed pair order rate ::: 0.005410721442885774 market list price ::: 184.8182373747661
+
+NPLC to BTC at 1.3971999999999998e-07 = 22.21651596357784
+
+Profit opportunity for exchange ::: liquid
+USD to HOT Token at 4.39647577092511 = 43.9647577092511reversed pair order rate ::: 0.22745490981963928 market list price ::: 4.39647577092511
+
+HOT Token to USD at 0.019960000000000002 = 0.8775365638766521
+
+Profit opportunity for exchange ::: liquid
+BTC to QASH at 85299.1452991453 = 852991.452991453reversed pair order rate ::: 1.1723446893787575e-05 market list price ::: 85299.1452991453
+
+QASH to NPLC at 184.8182373747661 = 157648376.837621reversed pair order rate ::: 0.005410721442885774 market list price ::: 184.8182373747661
+
+NPLC to BTC at 1.3971999999999998e-07 = 22.026631211752402
+
+Profit opportunity for exchange ::: liquid
+USD to HOT Token at 4.39647577092511 = 43.9647577092511reversed pair order rate ::: 0.22745490981963928 market list price ::: 4.39647577092511
+
+HOT Token to USD at 0.019960000000000002 = 0.8775365638766521
+
+Profit opportunity for exchange ::: liquid
+XRP to JPY at 49.34710799999999 = 493.4710799999999
+
+JPY to XRP at 0.020180777708126908 = 9.95863017086931reversed pair order rate ::: 49.552104208416836 market list price ::: 0.020180777708126908
+
+Profit opportunity for exchange ::: liquid
+BTC to QASH at 85372.11291702309 = 853721.1291702308reversed pair order rate ::: 1.1713426853707416e-05 market list price ::: 85372.11291702309
+
+QASH to NPLC at 184.8182373747661 = 157783234.30283707reversed pair order rate ::: 0.005410721442885774 market list price ::: 184.8182373747661
+
+NPLC to BTC at 1.3971999999999998e-07 = 22.045473496792393
+
+Profit opportunity for exchange ::: liquid
+USD to HOT Token at 4.39647577092511 = 43.9647577092511reversed pair order rate ::: 0.22745490981963928 market list price ::: 4.39647577092511
+
+HOT Token to USD at 0.019960000000000002 = 0.8775365638766521
+
+Profit opportunity for exchange ::: liquid
+XRP to JPY at 49.31317599999999 = 493.13175999999993
+
+JPY to XRP at 0.020157548001928496 = 9.940327123475482reversed pair order rate ::: 49.609208416833674 market list price ::: 0.020157548001928496
+
+Profit opportunity for exchange ::: liquid
+BTC to HOT Token at 1217073.1707317075 = 12170731.707317075reversed pair order rate ::: 8.216432865731462e-07 market list price ::: 1217073.1707317075
+
+HOT Token to USD at 0.019960000000000002 = 242927.80487804883
+
+USD to QASH at 6.725520587640677 = 1633815.9530176746reversed pair order rate ::: 0.148687374749499 market list price ::: 6.725520587640677
+
+QASH to NPLC at 184.8182373747661 = 301958984.6315003reversed pair order rate ::: 0.005410721442885774 market list price ::: 184.8182373747661
+
+NPLC to BTC at 1.3971999999999998e-07 = 42.189709332713214
+
+Min buy ::: HOT Token/BTC ::: 1e-08 BTC
+Liquid is profitable
+  with calculated fees ::: 0.2
+ starting value::: 10 ending value ::: 13.963804563584484
+
+Profit opportunity for exchange ::: exmo
+BTC to MNX at 146334.3108504399 = 1463343.1085043992reversed pair order rate ::: 6.833667334669337e-06 market list price ::: 146334.3108504399
+
+MNX to USD at 0.08642689980000001 = 126472.20821173025
+
+USD to BTC at 7.997848229632801e-05 = 10.115055265439377reversed pair order rate ::: 12503.363045761525 market list price ::: 7.997848229632801e-05
+
+Min buy ::: MNX/BTC ::: 1e-08 BTC
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.115055265560967
+
+Profit opportunity for exchange ::: exmo
+RUB to WAVES at 0.007871353177396059 = 0.0787135317739606reversed pair order rate ::: 127.04295912825657 market list price ::: 0.007871353177396059
+
+WAVES to USD at 2.028934 = 0.15970456087626897
+
+USD to STQ at 7532.075471698108 = 1202.906805694463reversed pair order rate ::: 0.00013276553106212434 market list price ::: 7532.075471698108
+
+STQ to RUB at 0.008438089999999999 = 10.15023588806239
+
+Min buy ::: WAVES/RUB ::: 1.0 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.150235888062399
+
+Profit opportunity for exchange ::: exmo
+USD to BTC at 8.257954888914262e-05 = 0.0008257954888914262reversed pair order rate ::: 12109.535756152307 market list price ::: 8.257954888914262e-05
+
+BTC to MNX at 153775.03852080123 = 126.98673311458295reversed pair order rate ::: 6.5030060120240486e-06 market list price ::: 153775.03852080123
+
+MNX to USD at 0.08477041939999999 = 10.764718624359064
+
+Min buy ::: BTC/USD ::: 1.0 USD
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.698972724907978
+
+Profit opportunity for exchange ::: exmo
+RUB to ETH at 5.1778679367814376e-05 = 0.0005177867936781437reversed pair order rate ::: 19312.968430430847 market list price ::: 5.1778679367814376e-05
+
+ETH to ADA at 3486.584684181108 = 1.8053075045094593reversed pair order rate ::: 0.00028681362725450893 market list price ::: 3486.584684181108
+
+ADA to USD at 0.0891407113 = 0.16092639506720116
+
+USD to STQ at 7532.075471698108 = 1212.1097530344653reversed pair order rate ::: 0.00013276553106212434 market list price ::: 7532.075471698108
+
+STQ to RUB at 0.008463040000000003 = 10.258133324320804
+
+Min buy ::: ETH/RUB ::: 0.001 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.25813332437934
+
+Profit opportunity for exchange ::: exmo
+USDT to BTC at 8.524086094977799e-05 = 0.0008524086094977799reversed pair order rate ::: 11731.462925851696 market list price ::: 8.524086094977799e-05
+
+BTC to KICK at 5544444.444444448 = 4726.132179326582reversed pair order rate ::: 1.8036072144288566e-07 market list price ::: 5544444.444444448
+
+KICK to USDT at 0.002295399999999999 = 10.848363804426233
+
+Min buy ::: BTC/USDT ::: 0.01 USDT
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.848363804426223
+
+Profit opportunity for exchange ::: exmo
+XLM to TRY at 0.62251760972 = 6.2251760972
+
+TRY to XLM at 1.5888199800576028 = 9.89068416260837reversed pair order rate ::: 0.6293979258517034 market list price ::: 1.5888199800576028
+
+Profit opportunity for exchange ::: exmo
+RUB to TRX at 0.48682926829268297 = 4.86829268292683reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 4.372700487804878
+
+UAH to XRP at 0.09335141154195302 = 0.4081977627867719reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+XRP to RUB at 24.953199248679997 = 10.185840107683733
+
+Min buy ::: TRX/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185840148421871
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185840148421871
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185840189160007
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185840229898142
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185840250267212
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185840291005348
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185840311374417
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185840352112551
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185840429515011
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185840490622217
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185840555803235
+
+Profit opportunity for exchange ::: exmo
+UAH to XRP at 0.09335141154195302 = 0.9335141154195302reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+XRP to RUB at 24.953199248679997 = 23.294163723518793
+
+RUB to TRX at 0.48682926829268297 = 11.340280681010613reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 10.185840107683733
+
+Min buy ::: XRP/UAH ::: 0.0001 UAH
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.18584062505807
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185840649500951
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185840698386716
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.18584075134629
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185840808379682
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.18584083689638
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.18584089392977
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185840950963163
+
+Profit opportunity for exchange ::: exmo
+RUB to TRX at 0.48682926829268297 = 4.86829268292683reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 4.372700487804878
+
+UAH to XRP at 0.09335141154195302 = 0.4081977627867719reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+XRP to RUB at 24.953199248679997 = 10.185840107683733
+
+Min buy ::: TRX/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185841065029948
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185841065029948
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185841122063337
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.1858411709491
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185841191318168
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185841232056305
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185841272794441
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.18584131353258
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185841354270718
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185841374639782
+
+Profit opportunity for exchange ::: exmo
+UAH to XRP at 0.09335141154195302 = 0.9335141154195302reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+XRP to RUB at 24.953199248679997 = 23.294163723518793
+
+RUB to TRX at 0.48682926829268297 = 11.340280681010613reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 10.185840107683733
+
+Min buy ::: XRP/UAH ::: 0.0001 UAH
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185841435746989
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185841456116059
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185841496854195
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.185841517223265
+
+Profit opportunity for exchange ::: exmo
+TRX to UAH at 0.8982 = 8.982
+
+UAH to XRP at 0.09335141154195302 = 0.838482378469822reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+XRP to RUB at 24.953199248679997 = 20.92281785646458
+
+RUB to TRX at 0.48682926829268297 = 10.185840107683733reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+Min buy ::: TRX/UAH ::: 1e-06 UAH
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.225272318256076
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.225272318256078
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.225272318256078
+
+Profit opportunity for exchange ::: exmo
+RUB to TRX at 0.48682926829268297 = 4.86829268292683reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 4.372700487804878
+
+UAH to XRP at 0.09335141154195302 = 0.4081977627867719reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+XRP to RUB at 24.953199248679997 = 10.185840107683733
+
+Min buy ::: TRX/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.22527231825608
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.225272318256078
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.016962450074974
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Min buy ::: XRP/RUB ::: 1e-06 RUB
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.016962450074974
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Profit opportunity for exchange ::: exmo
+XRP to RUB at 24.953199248679997 = 249.53199248679996
+
+RUB to TRX at 0.48682926829268297 = 121.4794773179641reversed pair order rate ::: 2.0541082164328657 market list price ::: 0.48682926829268297
+
+TRX to UAH at 0.8982 = 109.11286652699535
+
+UAH to XRP at 0.09335141154195302 = 10.185840107683733reversed pair order rate ::: 10.712210811623244 market list price ::: 0.09335141154195302
+
+Profit opportunity for exchange ::: exmo
+USD to BTC at 8.716081082261288e-05 = 0.0008716081082261289reversed pair order rate ::: 11473.046092184371 market list price ::: 8.716081082261288e-05
+
+BTC to INK at 1247500.0 = 1087.3311150120958reversed pair order rate ::: 8.016032064128256e-07 market list price ::: 1247500.0
+
+INK to USD at 0.009380201999999997 = 10.199385499698687
+
+Min buy ::: BTC/USD ::: 1.0 USD
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.19938549969869
+
+Profit opportunity for exchange ::: exmo
+USD to BTC at 8.716081082261288e-05 = 0.0008716081082261289reversed pair order rate ::: 11473.046092184371 market list price ::: 8.716081082261288e-05
+
+BTC to INK at 1247500.0 = 1087.3311150120958reversed pair order rate ::: 8.016032064128256e-07 market list price ::: 1247500.0
+
+INK to USD at 0.009380201999999997 = 10.199385499698687
+
+Min buy ::: BTC/USD ::: 1.0 USD
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.19938549969869
+
+Profit opportunity for exchange ::: exmo
+USD to BTC at 8.716157205240173e-05 = 0.0008716157205240174reversed pair order rate ::: 11472.94589178357 market list price ::: 8.716157205240173e-05
+
+BTC to INK at 1247500.0 = 1087.3406113537117reversed pair order rate ::: 8.016032064128256e-07 market list price ::: 1247500.0
+
+INK to USD at 0.009380201999999997 = 10.199474577301306
+
+Min buy ::: BTC/USD ::: 1.0 USD
+EXMO is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 10.19947457730131
+

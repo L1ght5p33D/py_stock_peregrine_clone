@@ -1,0 +1,38 @@
+
+
+Highest min buy in USDT for chain ::: 0
+Lowest max buy in USDT for transfer chain ::: inf
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 13.435213344907853
+
+Highest min buy in USDT for chain ::: 0
+Lowest max buy in USDT for transfer chain ::: inf
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 13.428034369410074
+
+Profit opportunity for exchange ::: rightbtc
+BTC to OOT at 739259.2592592594 = 7392592.592592594reversed pair order rate ::: 1.352705410821643e-06 market list price ::: 739259.2592592594
+
+OOT to ETH at 6.487000000000003e-05 = 479.55748148148183
+
+ETH to BTC at 0.028012862000000003 = 13.433777549808308
+
+Min buy ::: OOT/BTC ::: 1e-08 BTC
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 13.433777549808298
+
+Profit opportunity for exchange ::: rightbtc
+BTC to OOT at 739259.2592592594 = 7392592.592592594reversed pair order rate ::: 1.352705410821643e-06 market list price ::: 739259.2592592594
+
+OOT to ETH at 6.487000000000003e-05 = 479.55748148148183
+
+ETH to BTC at 0.028012862000000003 = 13.433777549808308
+
+Min buy ::: OOT/BTC ::: 1e-08 BTC
+RightBTC is profitable
+  with calculated fees ::: 0.002
+ starting value::: 10 ending value ::: 13.433777549808298
+

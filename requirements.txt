@@ -1,0 +1,7 @@
+tweepy
+git+git://github.com/wardbradt/networkx.git#egg=networkx
+numpy
+ccxt==1.18.766
+certifi== 2019.6.16
+# Only necessary if you will be modifying or using cythonperegrine
+Cython
